@@ -1,2 +1,2 @@
-# -mage-To-Pixel
+# İmage-To-Pixel
 A python code that converts any image whose URL you enter into a Pixel
