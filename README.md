@@ -5,7 +5,7 @@ A python code that converts any image whose URL you enter into a Pixel
 NOTE!!! I have not tried this code in Visual Studio Code. Any problems may arise :) Therefore, you can create and download the images from this link:
 https://trinket.io/embed/python3
 
-                                                               Examples:
+Examples:
 
 
 
