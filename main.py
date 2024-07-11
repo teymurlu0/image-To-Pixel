@@ -1,4 +1,4 @@
-import pmatplotlib.pyplot as plt  # For plotting and displaying images
+import matplotlib.pyplot as plt  # For plotting and displaying images
 import cv2  # OpenCV library for image processing
 import numpy as np  # NumPy for numerical operations on arrays
 import requests  # For making HTTP requests to fetch the image
